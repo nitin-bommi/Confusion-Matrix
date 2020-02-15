@@ -15,7 +15,7 @@ In each classifier, we get both right as well as wrong predictions.
 When we predict that something happens/occurs and it didn't happened/occured.(rejection of a true null hypothesis)
 Example :- We predict that an earthquake would occur which didn't happen.
 
-### False Negative (typr II error)
+### False Negative (type II error)
 When we predict that something won't happen/occur but it happens/occurs.(non-rejection of a false null hypothesis)
 Example :- We predict that there might be no earthquake but there occurs an earthquake.
 
